@@ -18,11 +18,11 @@ const RESOURCES = {
 "assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "64b96825d49e070ea87c7100f2db3f46",
 "assets/packages/progress_dialog/assets/double_ring_loading_io.gif": "e5b006904226dc824fdb6b8027f7d930",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"icons/Icon-192.png": "66077b7d3c38af1b168e204e29e7443a",
+"icons/Icon-512.png": "66077b7d3c38af1b168e204e29e7443a",
 "index.html": "06e03b8ed258a2cf8f143293ac77e831",
 "/": "06e03b8ed258a2cf8f143293ac77e831",
-"main.dart.js": "3e701d17b8ebcd7b1d8b06e6882ea27d",
+"main.dart.js": "93fc88f0ac73dfdb63531d8bdb91bca6",
 "manifest.json": "e5005b7c8eafa646a807278f51f6679d"
 };
 
